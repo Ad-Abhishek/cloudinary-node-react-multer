@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Abhishek Adhikari",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.30.0",
